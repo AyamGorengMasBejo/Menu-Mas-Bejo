@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Ayam Goreng Mas Bejo</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; }
+        .menu-item { margin: 20px auto; max-width: 600px; }
+        img { max-width: 100%; height: auto; }
+    </style>
+</head>
+<body>
+    <h1>Menu Ayam Goreng Mas Bejo</h1>
+    <div class="menu-item"><img src="menu.png" alt="Menu"></div>
+    <div class="menu-item"><img src="penyet.png" alt="Penyet"></div>
+    <div class="menu-item"><img src="nasi_goreng.png" alt="Nasi Goreng"></div>
+    <div class="menu-item"><img src="extra.png" alt="Extra"></div>
+    <div class="menu-item"><img src="snack.png" alt="Snack"></div>
+    <div class="menu-item"><img src="spesial.png" alt="Spesial"></div>
+    <div class="menu-item"><img src="minuman.png" alt="Minuman"></div>
+    <div class="menu-item"><img src="terima_kasih.png" alt="Terima Kasih"></div>
+</body>
+</html>
